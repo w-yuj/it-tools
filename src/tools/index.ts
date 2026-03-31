@@ -163,7 +163,6 @@ export const toolsByCategory: ToolCategory[] = [
       emailNormalizer,
       regexTester,
       regexMemo,
-      decodeUnicode,
     ],
   },
   {
@@ -188,6 +187,7 @@ export const toolsByCategory: ToolCategory[] = [
       textDiff,
       numeronymGenerator,
       asciiTextDrawer,
+      decodeUnicode,
     ],
   },
   {
